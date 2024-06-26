@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483746517058",
+    "project_id": "kokus-59ead",
+    "storage_bucket": "kokus-59ead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483746517058:android:9dd02ae27f9b9481061ddb",
+        "android_client_info": {
+          "package_name": "com.example.kokus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD3Be0VzsoaJrrrLuLBGnmEI4SUEc0nrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
