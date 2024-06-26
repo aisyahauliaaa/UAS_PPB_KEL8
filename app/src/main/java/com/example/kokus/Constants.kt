@@ -43,7 +43,7 @@ object Constants {
 
         val que5 = Question(
             5, "Komponen dari komputer apakah ini?",
-            R.drawable.bateraicmos,
+            R.drawable.baterai_cmos,
             "Baterai Alkali", "Baterai CMOS",
             "Baterai DMOS","Baterai AA",
             2
@@ -67,7 +67,7 @@ object Constants {
 
         val que8 = Question(
             8, "Fungsi dari benda pada gambar dibawah adalah...",
-            R.drawable.bateraicmos,
+            R.drawable.baterai_cmos,
             " Untuk mengeluarkan hasil cetak dari komputer", "Menyimpan data waktu",
             "Untuk memasukkan data berupa teks ke dalam komputer","Untuk mengontrol dan berinteraksi dengan komputer",
             2
