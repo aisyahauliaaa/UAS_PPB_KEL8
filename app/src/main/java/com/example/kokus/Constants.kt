@@ -11,7 +11,8 @@ object Constants {
 
         val que1 = Question(
             1, "Fungsi dari benda pada gambar dibawah ini adalah...",
-            R.drawable.hardddisk,
+            R.drawable.hardddisk
+            ,
             "Penyimpanan data jangka panjang pada komputer ", "Melindungi komputer dari virus dan malware",
             "Penyimpanan data sementara yang digunakan komputer untuk menyimpan data yang sedang digunakan ","Untuk mengeluarkan hasil cetak dari komputer",
             1
